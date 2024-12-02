@@ -14,9 +14,10 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Tech Stacks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 
-## 🧑‍💻 Contact me
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:2jihye1@gmail.com)
-
 ## 🏅 Stats
 ![imwisdomh's Github Stat](https://github-readme-stats.vercel.app/api?username=imwisdomh&custom_title=imwisdomh's%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imwisdomh&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000)
+
+## 🧑‍💻 Contact me
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:2jihye1@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@imwisdomh)
